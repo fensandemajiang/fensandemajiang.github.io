@@ -1,0 +1,1 @@
+import{f as e,R as t}from"./vendor.2d2ab4d3.js";var a=()=>{const a=e();return t.createElement("div",null,"Lobby",t.createElement("button",{className:"flex items-center justify-center px-8 py-3 font-medium rounded-md text-white bg-blue-700 shadow uppercase disabled:opacity-50",onClick:()=>{a.push("/play")}},"Go to Play Page [Placeholder]"))};export{a as default};
